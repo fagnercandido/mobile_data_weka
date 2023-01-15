@@ -1,1 +1,2 @@
-# mobile_data_weka
+# Dataset to pacemaker informations
+## The format is csv
